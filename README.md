@@ -5,8 +5,8 @@ All solutions are written in **C#** and organized by topic.
 
 ---
 
-## 🟢 Arrays & Hashing
+## Arrays & Hashing
 
-| # | Problem | Solution | Difficulty |
-|---|--------|----------|------------|
+| # | Problem |
+|---|--------|
 | 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 
