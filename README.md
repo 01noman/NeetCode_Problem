@@ -9,5 +9,5 @@ All solutions are written in **C#** and organized by topic.
 
 | # | Problem |
 |---|--------|
-| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+| 1 | [Contains Duplicate](https://neetcode.io/problems/duplicate-integer/question?list=neetcode150)
 | 2 | [Valid Anagram](https://neetcode.io/problems/is-anagram/question)
